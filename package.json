@@ -1,0 +1,12 @@
+{
+  "name": "node-download-file-from-https-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adrianodrix/node-download-file-from-https-url.git",
+  "author": "Adriano Santos <adrianodrix@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "file-saver": "^2.0.2"
+  }
+}
