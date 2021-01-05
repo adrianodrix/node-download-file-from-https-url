@@ -6,7 +6,7 @@
   "author": "Adriano Santos <adrianodrix@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "file-saver": "^2.0.2"
   }
 }
